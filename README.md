@@ -47,7 +47,11 @@ If you want to use your own CoinGecko API key or modify the API requests, you ca
    git clone <repository-url>
    ```
 
+## LIVE WEBSITE
+https://crypto-trend.vercel.app/
+
 ## Screenshot
+
 
 <img src="images/crypto_screenshot.png" alt="Screenshot" width="500" />
 <img src="images/img2.png" alt="Screenshot" width="500" />
