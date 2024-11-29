@@ -46,3 +46,8 @@ If you want to use your own CoinGecko API key or modify the API requests, you ca
    ```bash
    git clone <repository-url>
    ```
+
+## Screenshot
+
+<img src="images/crypto_screenshot.png" alt="Screenshot" width="500" />
+<img src="images/img2.png" alt="Screenshot" width="500" />
